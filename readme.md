@@ -134,9 +134,9 @@
 
 ## Online Play
 
-- [X-Wing Vassal Module](https://mu0n.github.io/XWVassal/guide) - Play X-Wing online using the [Vassal game engine](http://www.vassalengine.org/). Updated regurarly with new content/features. [[GitHub](https://github.com/Mu0n/XWVassal)]
-- [Vassal League](https://mu0n.github.io/XWVassal/) - The biggest online X-Wing league.
-- [Crit Cards Lookup](https://mu0n.github.io/XWVassal/crits) - Easy-to-use website to look up critical damage cards.
+- [X-Wing Vassal Module](http://xwvassal.info/guide) - Play X-Wing online using the [Vassal game engine](http://www.vassalengine.org/). Updated regurarly with new content/features. [[GitHub](https://github.com/Mu0n/XWVassal)]
+- [Vassal League](http://xwvassal.info) - The biggest online X-Wing league.
+- [Crit Cards Lookup](http://xwvassal.info/crits) - Easy-to-use website to look up critical damage cards.
 - [X-Wing for Tabletop Simulator](https://github.com/tjakubo2/TTS_xwing/wiki/Getting-started) - X-Wing module for [Tabletop Simulator](http://store.steampowered.com/app/286160/). [[GitHub](https://github.com/tjakubo2/TTS_xwing)]
 
 ## Video Channels
