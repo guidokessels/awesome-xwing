@@ -90,8 +90,9 @@
 - [Lady Luck](http://sozin.pythonanywhere.com/) - Get some statistics about how 'lucky' you were in Vassal. [[GitHub](https://github.com/lhayhurst/ladyluck)]
 - [X-Wing Companion Card Viewer](https://chrome.google.com/webstore/detail/x-wing-companion-card-vie/bilhapljfgefhhepedfaanikpailghbm?hl=en) - A Chrome Extension that turns card names into images on supported websites.
 - [Echolocation](http://randolphw.github.io/echolocation/) - Ship movement visualiser. [[GitHub](https://github.com/randolphw/echolocation/)]
-- [Crit Cards Lookup](https://mu0n.github.io/XWVassal/crits) - Easy-to-use website to look up critical damage cards.
+- [Crit Cards Lookup](http://xwvassal.info/crits) - Easy-to-use website to look up critical damage cards.
 - [X-Wing Miniatures Wiki](http://xwing-miniatures.wikia.com/wiki/X-Wing_Miniatures_Wiki) - This wiki contains all cards and components from the X-Wing game.
+- [Dial Generator](http://xwvassal.info/dialgen/dialgen) Ordered Dial graphic generator, perfect for BoShek usage which needs the same order of movements as is printed on FFG cardboard.
 
 ### Android Apps
 
