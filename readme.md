@@ -132,6 +132,7 @@
 
 - [X-Wing Overlayer](https://github.com/sheepeatingtaz/xwingoverlayer) - Overlay Generator for X-wing Miniatures Streaming
 - [X-Streamer](https://github.com/NineWorlds/xstreamer) - X-Wing Squad Helper for Twitch and YouTube Streamers
+- [xhud](https://github.com/sirjorj/xhud) - Overlay generator for macOS, Linux, and Windows (via Bash on Windows)
 
 ## Online Play
 
@@ -147,6 +148,7 @@
 - [Veldrin's Battle Reports](https://www.youtube.com/user/veldrin77/videos)
 - [First Earth](https://www.youtube.com/channel/UCndKEKhQjn88LapD1BRhdAg/playlists)
 - [Team Covenant](https://www.youtube.com/watch?v=I_wYHInhkiE&list=PLmHifZPFC_JvNld3Lp9Mly89a2ZEV7cNY)
+- [SlingPaint](https://www.youtube.com/slingpaint)
 
 ## Articles, Guides & Blogs
 
@@ -167,6 +169,7 @@
 - [Scum and Villainy](https://www.facebook.com/scumandvillainypodcast/)
 - [Carolina Krayts](https://www.facebook.com/carolinakrayts/)
 - [Gold Squadron](https://www.facebook.com/GoldSquadronPodcast/)
+- [Hornet Squadron](https://www.facebook.com/hornetpodcast/)
 
 ## Developer Resources
 
@@ -176,7 +179,8 @@ Are you a developer and interested in building an app/website/tool/astromech dro
 - [X-Wing Data](https://github.com/guidokessels/xwing-data/) - An easy-to-use collection of all card text, card stats and card images.
 - [X-Wing Miniatures Font](https://github.com/geordanr/xwing-miniatures-font) - Web font that contains all icons and symbols from the game.
 - [X-Wing Tech Timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16EjZfL8d_J6fCYb2w0ekyAaVzgv-xBIpp4SlW87N4Ro&font=Default&lang=en&initial_zoom=2&height=650) - An overview of various bits of software built to support X-Wing since 2012.
-
+- [libxwing](https://github.com/sirjorj/libxwing) - A C++ library for managing X-Wing resources (pilots, upgrades, squads).
+- [XWSTestFiles](https://github.com/sirjorj/XWSTestFiles) - Sample xws files for testing your parser and squad validators.
 
 ---
 
