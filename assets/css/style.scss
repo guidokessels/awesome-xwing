@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+section.page-header {
+  display: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #444;
+}
