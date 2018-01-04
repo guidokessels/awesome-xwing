@@ -45,9 +45,7 @@
 
 <!-- /TOC -->
 
-
 ---
-
 
 ## Official Resources
 
@@ -85,7 +83,7 @@
 ### Browser Apps
 
 - [(Yet Another) X-Wing Miniatures Squad Builder](http://geordanr.github.io/xwing/) (aka "YASB")
-- [Unofficial X-Wing Miniatures Game Squadron Builder](http://xwing-builder.co.uk/build) (aka "Voidstate") 
+- [Unofficial X-Wing Miniatures Game Squadron Builder](http://xwing-builder.co.uk/build) (aka "Voidstate")
 - [Fab's Squadrons Generator](http://x-wing.fabpsb.net/) (aka "Fabs")
 - [Lady Luck](http://sozin.pythonanywhere.com/) - Get some statistics about how 'lucky' you were in Vassal. [[GitHub](https://github.com/lhayhurst/ladyluck)]
 - [X-Wing Companion Card Viewer](https://chrome.google.com/webstore/detail/x-wing-companion-card-vie/bilhapljfgefhhepedfaanikpailghbm?hl=en) - A Chrome Extension that turns card names into images on supported websites.
@@ -106,19 +104,18 @@
 
 ### iOS Apps
 
-  - [Aurora Squad Builder](https://itunes.apple.com/nl/app/aurora-squad-builder/id1020767927?l=en&mt=8) - Aurora Squad Builder lets you quickly and easily create lists directly on your iPhone or iPad.
-  - [X-Wing AI](https://itunes.apple.com/nl/app/x-wing-ai/id1170239055?l=en&mt=8) - Single-player and cooperative companion app. Compatible with HotAC.
-  - [Dials for X-Wing](https://itunes.apple.com/nl/app/dials-for-x-wing/id1082385072?l=en&mt=8) - Dials for all ships.
-  - [Ship cards for X-Wing](https://itunes.apple.com/nl/app/ship-cards-for-x-wing/id1139594637?l=en&mt=8) - Ship card and stats viewer for X-Wing.
+- [Aurora Squad Builder](https://itunes.apple.com/nl/app/aurora-squad-builder/id1020767927?l=en&mt=8) - Aurora Squad Builder lets you quickly and easily create lists directly on your iPhone or iPad.
+- [X-Wing AI](https://itunes.apple.com/nl/app/x-wing-ai/id1170239055?l=en&mt=8) - Single-player and cooperative companion app. Compatible with HotAC.
+- [Dials for X-Wing](https://itunes.apple.com/nl/app/dials-for-x-wing/id1082385072?l=en&mt=8) - Dials for all ships.
+- [Ship Cards for X-Wing](https://itunes.apple.com/nl/app/ship-cards-for-x-wing/id1139594637?l=en&mt=8) - Ship card and stats viewer for X-Wing.
 
 ### Other
 
 - [R2-D7](https://github.com/FreakyDug/r2-d7) - A Slack bot that detects X-Wing lists and prints them in chat. Card lookup is supported via `[[]]` queries.
 
-
 ## Social
 
-- [X-Wing TMG Slack](https://xwingtmg-inviter.herokuapp.com/) - 
+- [X-Wing TMG Slack](https://xwingtmg-inviter.herokuapp.com/) -
 - [X-Wing Vassal League Slack](https://xwingvassalleagueslack.herokuapp.com/) - Started as the Slack for the Vassal League, but is now open for everyone to join and discuss X-Wing.
 - [Official FFG X-Wing Forums](https://community.fantasyflightgames.com/forum/222-x-wing/)
 - [XWingTMG Reddit](https://www.reddit.com/r/XWingTMG/)
@@ -164,31 +161,38 @@
 
 ## Podcasts
 
+Many of these podcasts can be found in your podcast app/player of choice.
+
 - [186th Squadron](http://186th.org/podcast)
-- [Mynock Squadron](https://www.facebook.com/groups/1769399006625954/)
-- [Scum and Villainy](https://www.facebook.com/scumandvillainypodcast/)
+- [Back to Dials](http://www.backtodials.com/)
 - [Carolina Krayts](https://www.facebook.com/carolinakrayts/)
 - [Gold Squadron](https://www.facebook.com/GoldSquadronPodcast/)
 - [Hornet Squadron](https://www.facebook.com/hornetpodcast/)
+- [Millénium Condor Baladodiffusion](https://www.podomatic.com/podcasts/milleniumdiffusion) (French)
+- [Mynock Squadron](https://www.facebook.com/groups/1769399006625954/)
+- [OCX Radio](https://ocxradio.podbean.com/)
+- [Scum and Villainy](https://www.facebook.com/scumandvillainypodcast/)
+- [Stay on Target](http://acrossthesaga.com/stayontarget/)
+- [Shuttle Tydirium](https://shuttletydirium.podbean.com/)
+- [Thule Squadron Radio](http://thulesquadronradio.podbean.com/)
 
 ## Developer Resources
 
 Are you a developer and interested in building an app/website/tool/astromech droid? The following links might come in handy.
 
+- [libxwing](https://github.com/sirjorj/libxwing) - A C++ library for managing X-Wing resources (pilots, upgrades, squads).
 - [X-Wing Squadron Specification (XWS)](https://github.com/elistevens/xws-spec) - This specification facilitates the export and subsequent import of squadrons from one compliant application to another.
 - [X-Wing Data](https://github.com/guidokessels/xwing-data/) - An easy-to-use collection of all card text, card stats and card images.
 - [X-Wing Miniatures Font](https://github.com/geordanr/xwing-miniatures-font) - Web font that contains all icons and symbols from the game.
+- [X-Wing Font Converter](https://github.com/kalhamaar/xwing-font-converter) - Can convert the [X-Wing Miniatures Font](https://github.com/geordanr/xwing-miniatures-font) into PNG images
 - [X-Wing Tech Timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16EjZfL8d_J6fCYb2w0ekyAaVzgv-xBIpp4SlW87N4Ro&font=Default&lang=en&initial_zoom=2&height=650) - An overview of various bits of software built to support X-Wing since 2012.
-- [libxwing](https://github.com/sirjorj/libxwing) - A C++ library for managing X-Wing resources (pilots, upgrades, squads).
 - [XWSTestFiles](https://github.com/sirjorj/XWSTestFiles) - Sample xws files for testing your parser and squad validators.
 
 ---
 
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
