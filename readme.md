@@ -183,6 +183,7 @@ Are you a developer and interested in building an app/website/tool/astromech dro
 - [libxwing](https://github.com/sirjorj/libxwing) - A C++ library for managing X-Wing resources (pilots, upgrades, squads).
 - [X-Wing Squadron Specification (XWS)](https://github.com/elistevens/xws-spec) - This specification facilitates the export and subsequent import of squadrons from one compliant application to another.
 - [X-Wing Data](https://github.com/guidokessels/xwing-data/) - An easy-to-use collection of all card text, card stats and card images.
+- [X-Wing List Loader](https://github.com/guidokessels/xwing-list-loader) - A Node module that loads lists from all popular X-Wing list builders (and MetaWing) and returns an XWS object
 - [X-Wing Miniatures Font](https://github.com/geordanr/xwing-miniatures-font) - Web font that contains all icons and symbols from the game.
 - [X-Wing Font Converter](https://github.com/kalhamaar/xwing-font-converter) - Can convert the [X-Wing Miniatures Font](https://github.com/geordanr/xwing-miniatures-font) into PNG images
 - [X-Wing Tech Timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16EjZfL8d_J6fCYb2w0ekyAaVzgv-xBIpp4SlW87N4Ro&font=Default&lang=en&initial_zoom=2&height=650) - An overview of various bits of software built to support X-Wing since 2012.
