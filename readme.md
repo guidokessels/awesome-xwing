@@ -62,6 +62,7 @@
 - [TOME](https://www.fantasyflightgames.com/en/more/organized-play/tome/client/#/) - Official tournament software from FFG. Does _not_ integrate with ListJuggler.
 - [Tabletop.to](https://tabletop.to/) - Tabletop Tournaments provides online tournament management software for tabletop gaming.
 - [T³ - TableTop Tournaments](https://www.tabletopturniere.de/index.php) - A place for tabletop tournament players and organizers.
+- [RollBetter.gg](https://rollbetter.gg) - Tabletop Tournament hosting web app focused on empowering TOs, providing users with control of their personal information, and making flexible rulesets to expand to more games. Currently in Open Alpha testing.
 
 ### Finding Tournaments
 
